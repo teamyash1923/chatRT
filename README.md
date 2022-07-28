@@ -1,15 +1,5 @@
-# HOW TO RUN IT LOCALY
+# ChatRT
+Realtime chat Application built with socket.io
+> Mainly tailored for Casual Group Chats & No data is stored
 
-1) From project's root directory run 'npm install' to download the dependencies
-2) From project's root directory run 'npm start' to start the application in local development server
-3) in your browser of choice visit 'localhost:5000' to view the application
-
-you can use multiple tabs to login as different users
-
-# What is it
-
-It is realtime chat application build chat. it does not store any of users details. you can user whatever name you want.
-
-# Deployment link
-
-The application is deployed on https://ancient-journey-58990.herokuapp.com/
+Website link - https://chatxrt.herokuapp.com/
