@@ -1,10 +1,15 @@
-# chatRT
-### Realtime Group chat app, Where no data will be stored <br>
+# HOW TO RUN IT LOCALY
 
-<img src="https://loading.io/mod/spinner/atom/index.svg" width="100" height="100" /><br>
-Check it here - https://ancient-journey-58990.herokuapp.com/
+1) From project's root directory run 'npm install' to download the dependencies
+2) From project's root directory run 'npm start' to start the application in local development server
+3) in your browser of choice visit 'localhost:5000' to view the application
 
-> [@yasar195](https://github.com/yasar195)
-> [@hariprasd](https://github.com/hariprasd) 
-> [@shibinashraf](https://github.com/shibinashraf) 
+you can use multiple tabs to login as different users
 
+# What is it
+
+It is realtime chat application build chat. it does not store any of users details. you can user whatever name you want.
+
+# Deployment link
+
+The application is deployed on https://ancient-journey-58990.herokuapp.com/
